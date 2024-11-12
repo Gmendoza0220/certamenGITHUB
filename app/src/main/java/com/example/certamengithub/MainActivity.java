@@ -87,4 +87,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    // COMMIT 3 - MÉTODOS DE SUGERENCIAS
+
+
 }
